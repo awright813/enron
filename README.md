@@ -1,6 +1,6 @@
 # Analysis of the Enron Corpus
-<img align="left" width="150" height="175" src="https://github.com/awright813/enron/blob/master/misc/logo.png">
-A slightly-nosy deep-dive into the subtleties of corporate communication in a crisis.
+<img align="left" width="200" height="175" src="https://github.com/awright813/enron/blob/master/misc/logo.png">
+A deep-dive into the subtleties of corporate communication in a crisis.
 
 ## Data
 [Enron Dataset and Context](https://www.cs.cmu.edu/~enron/)  

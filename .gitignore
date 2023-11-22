@@ -5,3 +5,5 @@ notebooks/news_kw_preprocessing.ipynb
 notebooks/news_kw_extraction.ipynb
 model/keyword_extractor/2023-11-13T15:13:03_checkpoint.pth.tar
 model/keyword_extractor/2023-11-13T09:23:23_checkpoint.pth.tar
+notebooks/news_kw_sentiment.ipynb
+model/keyword_sentiment/2023-11-14T08:41:04_checkpoint.pth.tar
